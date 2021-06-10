@@ -16,7 +16,7 @@ echo " <h3 style='color:red'>exercice 1 :</h3>";
   );
   echo "les 5 langages sont : <br> ";
 
-  foreach($languages as $val){//cete boucle a récupéré la clé et la valeur 
+  foreach($languages as $val){//cete boucle récupéré  la valeur 
  echo $val." . <br/>";
   }
 
